@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Firmware binaries (contain proprietary SEGA firmware)
+*.bin
+
+# Test/debug scripts (development only)
+test_*.py
+debug_*.py
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Windows
+nul
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.log
