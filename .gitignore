@@ -8,6 +8,7 @@ build/
 
 # Firmware binaries (contain proprietary SEGA firmware)
 *.bin
+*.hex
 
 # Test/debug scripts (development only)
 test_*.py
