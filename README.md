@@ -361,3 +361,9 @@ sega_0855_aime_reader_firm_updater/
 ### LED 地址
 
 LED 命令使用 `addr=0x08`，其他命令使用 `addr=0x00`。
+
+---
+
+## 许可证
+
+本项目采用 [GNU Affero General Public License v3.0](LICENSE)（`AGPL-3.0-only`）许可。
